@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+* {
+    font-size: 20px;
+
+}
+a{
+    margin:15px
+}
+.navbar {
+    background-color: rgba(255, 255, 255, 0.5);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.navbar .logo {
+    position: relative;
+    font-weight: bold;
+    left: 50%;
+    font-size: 40px;
+}
+
+.navbar .btn {
+    background-color: red;
+    color: #fff;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: url("img/gym.jpg")no-repeat!important;
+    background-size: cover!important;
+    background-attachment: fixed!important;
+    background-position: center!important;
+    overflow-x: hidden;
+}
+
+
+/* -------------------------------------------------------- */
+
+.main {
+    max-width: 2160px;
+    margin: 0 auto;
+    padding: 20px;
+}
+/* -------------------------------------------------------- */
+
+.karnet-list {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.karnet {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: calc(33.33% - 15px);
+    margin-bottom: 20px;
+    padding: 30px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+/* -------------------------------------------------------- */
+
+@media screen and (max-width: 1100px) {
+
+    .karnet{
+        width: 49%;
+    }
+
+}
+
+@media screen and (max-width: 940px){
+
+    .main{
+        margin-top: 20px;
+    }
+
+
+}
+
+@media screen and (max-width: 740px) {
+
+    .karnet{
+        width: 100%;
+    }
+
+
+}

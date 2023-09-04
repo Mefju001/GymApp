@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+  <title>Formularz</title>
+  <link rel="stylesheet" type="text/css" href="/formularz.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Dodaj karnet</h2>
+    <form action="#" th:action="@{/save}"
+      th:object="${karnet}" method="post">
+      <input type="hidden" th:field="*{ID}"/>
+      <label for="name">Nazwa:</label>
+      <input type="text" th:field="*{nazwa}" placeholder = "Nazwa" id="name" name="name" maxlength="30" required>
+      
+      <label for="Cena">Cena:</label>
+      <input type="number" th:field="*{cena}" placeholder = "Cena" id="Cena" name="number" min="10" max="300" step="0.01" required>
+      <button type="submit">Wyślij</button>
+    </form>
+    <p>
+      <a th:href="@{/MenuAdmin}">Powrot do menu glownego</a>
+    </p>
+  </div>
+</body>
+</html>
