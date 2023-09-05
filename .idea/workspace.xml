@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d32826c2-5681-48cb-83c4-17c8e7a0525a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q9uhs3qTtlnhBB9d0D5hcGaMTc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projekty/GymApp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;7edeffb690732dab03bc102eab84bcdc&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projekty\springboot\src\main\resources\templates" />
+      <recent name="D:\Projekty\springboot\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projekty\springboot\src\main\resources\static" />
+      <recent name="D:\Projekty\springboot\src\main\resources\templates" />
+      <recent name="D:\Projekty\springboot\src\main\resources\static\css" />
+      <recent name="D:\Projekty\springboot\src\main\java\com\mefju\springboot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="GymApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mefju.springboot.SpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d32826c2-5681-48cb-83c4-17c8e7a0525a" name="Changes" comment="" />
+      <created>1684778241197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684778241197</updated>
+      <workItem from="1684778242193" duration="2209000" />
+      <workItem from="1684786725189" duration="3110000" />
+      <workItem from="1684854276282" duration="18132000" />
+      <workItem from="1684942535980" duration="11349000" />
+      <workItem from="1685017787516" duration="552000" />
+      <workItem from="1685030997157" duration="6484000" />
+      <workItem from="1685043239948" duration="125000" />
+      <workItem from="1685044305787" duration="4375000" />
+      <workItem from="1685110404620" duration="2105000" />
+      <workItem from="1685290741731" duration="5022000" />
+      <workItem from="1685301257549" duration="275000" />
+      <workItem from="1685308727069" duration="11000" />
+      <workItem from="1685376129704" duration="2324000" />
+      <workItem from="1685382183169" duration="1224000" />
+      <workItem from="1685471898890" duration="1825000" />
+      <workItem from="1685479046410" duration="1961000" />
+      <workItem from="1685543811982" duration="1728000" />
+      <workItem from="1685567321577" duration="618000" />
+      <workItem from="1685642569762" duration="148000" />
+      <workItem from="1685812937246" duration="579000" />
+      <workItem from="1686249034803" duration="220000" />
+      <workItem from="1686253093177" duration="764000" />
+      <workItem from="1686255041982" duration="121000" />
+      <workItem from="1686255256850" duration="106000" />
+      <workItem from="1686255537633" duration="54000" />
+      <workItem from="1686318666059" duration="1650000" />
+      <workItem from="1687277442807" duration="1528000" />
+      <workItem from="1689108970453" duration="41000" />
+      <workItem from="1689109081068" duration="10000" />
+      <workItem from="1690399881844" duration="116000" />
+      <workItem from="1690665895028" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
